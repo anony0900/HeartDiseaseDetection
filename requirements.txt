@@ -2,4 +2,4 @@ flask
 joblib
 pandas 
 numpy 
-pickle=4.0
+pickle==4.0
